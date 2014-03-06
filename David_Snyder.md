@@ -5,9 +5,11 @@ Your Public Site
 
 To get started, open the index.html file to find instructions and examples. You'll start your editing there!
 
-#####<b>Hi I am David Snyder</b></li>
+##### *#FFD700*
 
-Go Pack Go *#B22222*
+<b>Hi I am David Snyder</b></li>
+
+Go Pack Go : /{#B22222}/
 
 The best NFL team is the 
 >Green Bay Packers 
